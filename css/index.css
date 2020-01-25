@@ -131,7 +131,7 @@ header nav a {
 .middle-content .boxes {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
 
 .middle-content .boxes .box {
@@ -144,7 +144,7 @@ header nav a {
     align-items: center;
     justify-content: center;
 }
-/* .middle-content .boxes .box-1 {
+.middle-content .boxes .box-1 {
     background-color:teal;
 }
 .middle-content .boxes .box-2 {
@@ -173,7 +173,7 @@ header nav a {
 }
 .middle-content .boxes .box-10 {
     background-color:dodgerblue;
-} */
+}
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
