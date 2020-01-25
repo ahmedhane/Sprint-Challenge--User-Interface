@@ -117,6 +117,11 @@ header nav a {
     padding: 0 1%;
     padding-bottom: 20px;  
 }
+.top-content .text-container-about {
+    width: 98%;
+    padding: 0 1%;
+    padding-bottom: 20px;  
+}
 
 .middle-content {
     margin-bottom: 20px;
@@ -174,10 +179,56 @@ header nav a {
 .middle-content .boxes .box-10 {
     background-color:dodgerblue;
 }
+/* middle content about page */
+.middle-content-about {
+    margin-bottom: 20px;
+     display: flex;
+    flex-wrap: wrap; 
+    justify-content:space-between ; 
+    
+}
+
+.myButton {
+	background-color:#ffffff;
+	border-radius:10px;
+	border:2px solid #030303;
+	/* display:inline-block; */
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:15px;
+	padding:11px 23px;
+	text-decoration:none;
+}
+.myButton:hover {
+    background-color:#000000;
+    color: #ffffff;
+
+.middle-content-about h2 {
+    padding: 0 2%;
+    margin-bottom: 0;
+    
+}
+
+.middle-content-about .text-container-about {
+    width: 48%;
+    padding: 0 1%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-bottom: 1.5px dashed black;
+   
+}
+
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
+    padding-left: 0;
     justify-content: space-around;
+}
+.bottom-content .text-container-about {
+    width: 98%;
+    padding: 20px 1%;
+    padding-bottom: 20px;
 }
 
 .bottom-content .text-container {
