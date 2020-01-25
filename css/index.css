@@ -198,15 +198,20 @@ header nav a {
 	font-family:Arial;
 	font-size:15px;
 	padding:11px 23px;
-	text-decoration:none;
+    text-decoration:none;
+    margin-top: 10px;
 }
 .myButton:hover {
     background-color:#000000;
     color: #ffffff;
+}
 
 .middle-content-about h2 {
-    padding: 0 2%;
+    padding: 10px 2%;
     margin-bottom: 0;
+    margin: 0px;
+    
+    /* border: 1px solid red; */
     
 }
 
