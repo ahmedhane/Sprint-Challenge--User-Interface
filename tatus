@@ -1,0 +1,139 @@
+[33mcommit 400b06b1e8287068dbd4050f2dfef96ae369cf96[m[33m ([m[1;36mHEAD[m[33m, [m[1;32mAhmed-Hane[m[33m)[m
+Author: Ahmed Hane <br.ahmed313@gmail.com>
+Date:   Sat Jan 25 15:06:24 2020 -0500
+
+    about page
+
+[33mcommit 53c8ab40cd113b7f5250bcd9ffb0cb633397167d[m
+Author: Ahmed Hane <br.ahmed313@gmail.com>
+Date:   Sat Jan 25 13:45:26 2020 -0500
+
+    color boxes
+
+[33mcommit 9612315db9c3bb8d51256c76f551429ffdc2e9c3[m
+Author: Ahmed Hane <br.ahmed313@gmail.com>
+Date:   Sat Jan 25 13:41:50 2020 -0500
+
+    initial setup and header
+
+[33mcommit ca8f10ba2e6cf130432e598151801a5986e47a6f[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Melissa Murphy <31637708+melissa-murphy@users.noreply.github.com>
+Date:   Fri Nov 15 19:41:11 2019 -0800
+
+    Update README.md (#1077)
+    
+    Student correctly pointed out that the README it noted to reach out to PM and Instructor in the cohort help channel. Since we do not allow chat in help during sprint challenges, it seemed wise to change this :) I switched PM to TL as well
+
+[33mcommit 2de1dc954cd0cf089e0b86dd96b77dd96d3aa0a0[m
+Author: Ryan Hamblin <8798259+ryan-hamblin@users.noreply.github.com>
+Date:   Thu Jan 17 20:16:26 2019 -0700
+
+    Update README.md
+
+[33mcommit 7b232c1a7271299b949e79606b5caca15c420313[m
+Author: Ryan Hamblin <8798259+ryan-hamblin@users.noreply.github.com>
+Date:   Thu Jan 10 10:11:48 2019 -0700
+
+    Update README.md
+
+[33mcommit 72a0180f20c358562835b80d20554fef34489c4d[m
+Author: Ryan Hamblin <8798259+ryan-hamblin@users.noreply.github.com>
+Date:   Thu Jan 10 10:07:43 2019 -0700
+
+    Update README.md
+
+[33mcommit e6778e08b0f7b50cdb483afa001e9c1e0b65f648[m
+Author: Ryan Hamblin <8798259+ryan-hamblin@users.noreply.github.com>
+Date:   Thu Jan 10 08:26:18 2019 -0700
+
+    Update README.md
+
+[33mcommit 76b0781d288bf3e63949588334ea6c855fe72a29[m
+Author: Ryan Hamblin <8798259+ryan-hamblin@users.noreply.github.com>
+Date:   Thu Jan 10 08:09:43 2019 -0700
+
+    Update README.md
+
+[33mcommit 6f3cef8a0ec8d922cb02d4b3b492f06f8c782037[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Thu Dec 13 11:02:47 2018 -0700
+
+    Removing answers since the readme is taking over
+
+[33mcommit 7cbc2133acc3b8d1c460035828d8e281fff34fff[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Tue Nov 27 16:38:21 2018 -0700
+
+    Updating readme to match standards
+
+[33mcommit 021a4d2779b7c64215082154008d046335a6dbfc[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Wed Nov 14 17:46:49 2018 -0700
+
+    updated link content
+
+[33mcommit 8161c4f59b0638247c49215f38806323046fa2e0[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Wed Nov 14 17:38:36 2018 -0700
+
+    trying an anchor tag
+
+[33mcommit bb8debf4824fab5bcf719ace2f892ed60fafc11a[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Wed Nov 14 17:36:17 2018 -0700
+
+    removing :
+
+[33mcommit ddc108640b9b723fe19b30aef621492ca25e6b6d[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Wed Nov 14 17:34:46 2018 -0700
+
+    testing _blank
+
+[33mcommit 89dfec63746ad10343e5a574931a4210c371521d[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Wed Nov 14 15:14:28 2018 -0700
+
+    readme test
+
+[33mcommit 41a495c13f3719751082f6de00351b0f5aea3dab[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Fri Nov 9 08:47:59 2018 -0700
+
+    added video preview of sprint challenges
+
+[33mcommit 73548fe602478275fc9b4a7bf5c6fd148be8e8b3[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Thu Aug 30 16:12:49 2018 -0600
+
+    Added clarity to instructions
+
+[33mcommit 803a5725e1180809714410ec21bcf8d8cbb1c78b[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Thu Aug 30 16:09:40 2018 -0600
+
+    Updates to instructions - removing branching as a requirement
+
+[33mcommit 7a12ef77837bbccb0bf8cf0060b61f68e10336de[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Thu Jul 26 23:58:20 2018 -0600
+
+    updates
+
+[33mcommit 50693e4e90f7477ede546b3c8e69e4a1b69689c3[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Thu Jul 26 23:50:27 2018 -0600
+
+    Sprint Challenge Initial Push
+
+[33mcommit f7f6af6b7e6ce8e7ad6b32e32d0969f176c683a0[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Thu Jul 26 15:25:51 2018 -0600
+
+    ignoring DS_Store
+
+[33mcommit 6f0fff2419f78837e9f07b41653aae6f07658501[m
+Author: Josh Knell <bigknell@gmail.com>
+Date:   Thu Jul 26 15:24:30 2018 -0600
+
+    Initial commit

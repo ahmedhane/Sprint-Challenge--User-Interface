@@ -70,13 +70,46 @@ p {
     width: 800px;
     margin: 0 auto;
 }
+/* .nav{
+    display: flex;
+    width: 780px;
+    justify-content: space-evenly;
+    border: 1px dotted red;
+    
+} */
+header nav {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-end;
+    padding: 20px 2%;
+    font-size: 16px;
+}
+header nav a {
+    color: black;
+    text-decoration: none;
+}
+.logo{
+    width:20% ;
+    /* border: 1px dotted red; */
+
+}
+.nav-items{
+    
+    justify-content: center;
+    border: 1px dotted red;
+}
+.jumbotron .img-header{
+    padding: 10px 0 20px 0;
+}
+
 
 .top-content {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
     margin-bottom: 20px;
-    border-bottom: 1px dashed black;
+    border-bottom: 1.5px dashed black;
 }
 
 .top-content .text-container {
@@ -84,10 +117,15 @@ p {
     padding: 0 1%;
     padding-bottom: 20px;  
 }
+.top-content .text-container-about {
+    width: 98%;
+    padding: 0 1%;
+    padding-bottom: 20px;  
+}
 
 .middle-content {
     margin-bottom: 20px;
-    border-bottom: 1px dashed black;
+    border-bottom: 1.5px dashed black;
 }
 
 .middle-content h2 {
@@ -98,7 +136,7 @@ p {
 .middle-content .boxes {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
 
 .middle-content .boxes .box {
@@ -111,11 +149,91 @@ p {
     align-items: center;
     justify-content: center;
 }
+.middle-content .boxes .box-1 {
+    background-color:teal;
+}
+.middle-content .boxes .box-2 {
+    background-color:gold;
+}
+.middle-content .boxes .box-3 {
+    background-color:cadetblue;
+}
+.middle-content .boxes .box-4 {
+    background-color:coral;
+}
+.middle-content .boxes .box-5 {
+    background-color:crimson;
+}
+.middle-content .boxes .box-6 {
+    background-color:forestgreen;
+}
+.middle-content .boxes .box-7 {
+    background-color:darkorchid;
+}
+.middle-content .boxes .box-8 {
+    background-color:hotpink;
+}
+.middle-content .boxes .box-9 {
+    background-color:indigo;
+}
+.middle-content .boxes .box-10 {
+    background-color:dodgerblue;
+}
+/* middle content about page */
+.middle-content-about {
+    margin-bottom: 20px;
+     display: flex;
+    flex-wrap: wrap; 
+    justify-content:space-between ; 
+    
+}
+
+.myButton {
+	background-color:#ffffff;
+	border-radius:10px;
+	border:2px solid #030303;
+	/* display:inline-block; */
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:15px;
+	padding:11px 23px;
+    text-decoration:none;
+    margin-top: 10px;
+}
+.myButton:hover {
+    background-color:#000000;
+    color: #ffffff;
+}
+
+.middle-content-about h2 {
+    padding: 10px 2%;
+    margin-bottom: 0;
+    margin: 0px;
+    
+    /* border: 1px solid red; */
+    
+}
+
+.middle-content-about .text-container-about {
+    width: 48%;
+    padding: 0 1%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-bottom: 1.5px dashed black;
+   
+}
 
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
+    padding-left: 0;
     justify-content: space-around;
+}
+.bottom-content .text-container-about {
+    width: 98%;
+    padding: 20px 1%;
+    padding-bottom: 20px;
 }
 
 .bottom-content .text-container {
